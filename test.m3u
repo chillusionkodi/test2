@@ -1,0 +1,193 @@
+#EXTM3U
+ #EXTINF:-1,***** GERMANY *****
+http://51.254.196.199:8080/live/testfast/hTwqA9/1147.ts
+#EXTINF:-1,DE | a.tv uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1430.ts
+#EXTINF:-1,DE | KiKA uuu1
+http://51.254.196.199:8080/live/testfast/hTwqA9/1429.ts
+#EXTINF:-1,DE | Pro7 MAXX / ProSiebenSat.1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1506.ts
+#EXTINF:-1,DE | Pro7
+http://51.254.196.199:8080/live/testfast/hTwqA9/1507.ts
+#EXTINF:-1,DE | RTL_LIVING
+http://51.254.196.199:8080/live/testfast/hTwqA9/1508.ts
+#EXTINF:-1,DE | RTL Television uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1420.ts
+#EXTINF:-1,DE | RTLII HD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1427.ts
+#EXTINF:-1,DE | RTL Crime / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1509.ts
+#EXTINF:-1,DE | RTL HD / CBC uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1513.ts
+#EXTINF:-1,DE | RTL2/CBC uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1512.ts
+#EXTINF:-1,DE | RTL NITRO/CBC uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1511.ts
+#EXTINF:-1,DE | RTLplus uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4667.ts
+#EXTINF:-1,DE | RTL Passion / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/2626.ts
+#EXTINF:-1,DE | SUPER RTL uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1419.ts
+#EXTINF:-1,DE | Sky Krimi / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1400.ts
+#EXTINF:-1,DE | Sky Cinema Hits uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1401.ts
+#EXTINF:-1,DE | Sky Cinema Nostalgie / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1406.ts
+#EXTINF:-1,DE | Sky Cinema Comedy uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1407.ts
+#EXTINF:-1,DE | Sky Cinema uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1408.ts
+#EXTINF:-1,DE | SkyAction
+http://51.254.196.199:8080/live/testfast/hTwqA9/1404.ts
+#EXTINF:-1,DE | Sky Atlantic uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1403.ts
+#EXTINF:-1,DE | SkyCinema24
+http://51.254.196.199:8080/live/testfast/hTwqA9/1405.ts
+#EXTINF:-1,DE | SkyCinema
+http://51.254.196.199:8080/live/testfast/hTwqA9/1425.ts
+#EXTINF:-1,DE | Sky Cinema +1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1410.ts
+#EXTINF:-1,DE | Sky Cinema Emotion uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/2630.ts
+#EXTINF:-1,DE | Sky Cinema Action uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/2628.ts
+#EXTINF:-1,DE | SKY MGM HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1399.ts
+#EXTINF:-1,DE | SKY TNT SERIES HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/2625.ts
+#EXTINF:-1,DE | SKY TNT FILME HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/2624.ts
+#EXTINF:-1,DE | SKY NATGEO WILD HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/2633.ts
+#EXTINF:-1,DE | SAT.1 RhlPf uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1426.ts
+#EXTINF:-1,DE | SAT.1 A  uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4666.ts
+#EXTINF:-1,DE | SAT.1 CH uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4665.ts
+#EXTINF:-1,DE | SAT.1 Gold uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4664.ts
+#EXTINF:-1,DE | SAT.1 NRW / ProSiebenSat.1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1418.ts
+#EXTINF:-1,DE | SKY SPORT1 HD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1417.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1415.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1431.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 1 uuu..
+http://51.254.196.199:8080/live/testfast/hTwqA9/1416.ts
+#EXTINF:-1,DE | EURO SPORT
+http://51.254.196.199:8080/live/testfast/hTwqA9/1412.ts
+#EXTINF:-1,DE | EUROSPORT2
+http://51.254.196.199:8080/live/testfast/hTwqA9/1413.ts
+#EXTINF:-1,DE | N.24 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1411.ts
+#EXTINF:-1,DE | 13Street
+http://51.254.196.199:8080/live/testfast/hTwqA9/1402.ts
+#EXTINF:-1,DE | ORF1
+http://51.254.196.199:8080/live/testfast/hTwqA9/1421.ts
+#EXTINF:-1,DE | VOX HD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1423.ts
+#EXTINF:-1,DE | ZDF  uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1422.ts
+#EXTINF:-1,DE | ZDFinfo/ZDFvision uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1473.ts
+#EXTINF:-1,DE | ProSieben / ProSiebenSat.1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1409.ts
+#EXTINF:-1,DE | NDR HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1477.ts
+#EXTINF:-1,DE | Fox hd
+http://51.254.196.199:8080/live/testfast/hTwqA9/1522.ts
+#EXTINF:-1,DE | Fox Serie uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4670.ts
+#EXTINF:-1,DE | AXN.
+http://51.254.196.199:8080/live/testfast/hTwqA9/1523.ts
+#EXTINF:-1,DE | Sat1 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1510.ts
+#EXTINF:-1,DE | Srf1
+http://51.254.196.199:8080/live/testfast/hTwqA9/1472.ts
+#EXTINF:-1,DE | N TV.
+http://51.254.196.199:8080/live/testfast/hTwqA9/1474.ts
+#EXTINF:-1,DE | ROMANCE
+http://51.254.196.199:8080/live/testfast/hTwqA9/1475.ts
+#EXTINF:-1,DE | zdf neo/ZDFvision uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1476.ts
+#EXTINF:-1,DE | Eurosport HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1478.ts
+#EXTINF:-1,DE | WDRHD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1480.ts
+#EXTINF:-1,DE | VOX/CBC uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1514.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1481.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD uuu.
+http://51.254.196.199:8080/live/testfast/hTwqA9/1482.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://51.254.196.199:8080/live/testfast/hTwqA9/1483.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD uuu.
+http://51.254.196.199:8080/live/testfast/hTwqA9/1484.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1485.ts
+#EXTINF:-1,DE | SPORT +1 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1486.ts
+#EXTINF:-1,DE | SPORT 1  HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1487.ts
+#EXTINF:-1,DE | SKY SELECT 1
+http://51.254.196.199:8080/live/testfast/hTwqA9/1495.ts
+#EXTINF:-1,DE | SKY SELECT 2HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1494.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1493.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1492.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1491.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1490.ts
+#EXTINF:-1,DE | Sky Select 7HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1489.ts
+#EXTINF:-1,DE | Sky Select 8HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1488.ts
+#EXTINF:-1,DE | ZDF /ZDFvision uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1515.ts
+#EXTINF:-1,DE | ORF2
+http://51.254.196.199:8080/live/testfast/hTwqA9/1517.ts
+#EXTINF:-1,DE | D MAX HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1518.ts
+#EXTINF:-1,DE | HISTORY CHANNEL HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1497.ts
+#EXTINF:-1,DE | Sky Cinema Family / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1498.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1520.ts
+#EXTINF:-1,DE | N24    uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1499.ts
+#EXTINF:-1,DE | arte / ARD  uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1500.ts
+#EXTINF:-1,DE | arte / ARD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1516.ts
+#EXTINF:-1,DE | Disney Junior / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1501.ts
+#EXTINF:-1,DE | Disney_XD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1502.ts
+#EXTINF:-1,DE | NICK_JR
+http://51.254.196.199:8080/live/testfast/hTwqA9/1504.ts
+#EXTINF:-1,DE | SYFY
+http://51.254.196.199:8080/live/testfast/hTwqA9/1521.ts
+#EXTINF:-1,DE | WDR uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1505.ts
+#EXTINF:-1,DE | SIXX.
+http://51.254.196.199:8080/live/testfast/hTwqA9/1519.ts
+#EXTINF:-1,DE | kabel eins / ProSiebenSat.1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/2627.ts
+#EXTINF:-1,DE | HEIMAT KANAL
+http://51.254.196.199:8080/live/testfast/hTwqA9/2631.ts
+#EXTINF:-1,DE | Disney Cinemagic / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/2632.ts
+#EXTINF:-1,DE | kabel eins Doku uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4669.ts
+#EXTINF:-1,DE | N24 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4668.ts
